@@ -1,6 +1,29 @@
 # ☁️ AWS Static Website Hosting Project
+This project is part of my cloud engineering learning journey. It demonstrates how to host a static portfolio website using Amazon Web Services (AWS) — specifically S3 for storage and optional CloudFront for global content delivery and HTTPS.
 
-This project demonstrates how to host a **static website** (HTML/CSS) on **Amazon S3** using the free tier.
+The project includes a simple responsive HTML/CSS design, GitHub version control, and clear documentation that explains how to deploy and configure AWS services for website hosting.
+
+Skills Demonstrated:
+
+AWS S3 bucket setup and configuration
+
+Public access and IAM policies
+
+Static website hosting
+
+Version control with Git & GitHub
+
+Optional: CloudFront CDN + HTTPS setup
+
+Tech Stack:
+
+HTML, CSS
+
+Amazon S3, CloudFront
+
+Git & GitHub
+
+This project represents the foundation of a cloud engineer’s skillset — deploying and managing a real application on AWS infrastructure.
 
 ---
 
