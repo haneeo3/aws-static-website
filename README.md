@@ -22,8 +22,8 @@ This project demonstrates how to host a **static website** (HTML/CSS) on **Amazo
 ## 🧩 Folder Structure
 aws-static-website/
 │
-├── index.html # Main webpage
-├── styles.css # Stylesheet
-├── README.md # Project documentation
-├── LICENSE # MIT License
-└── .gitignore # Ignore system files
+├── index.html
+├── styles.css
+├── README.md
+├── LICENSE
+└── .gitignore
