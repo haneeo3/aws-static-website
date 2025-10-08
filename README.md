@@ -32,3 +32,6 @@ The project includes a responsive HTML/CSS design, GitHub version control, and c
 ---
 
 ## 🗂️ Project Structure
+## 🗂️ Project Structure
+
+
