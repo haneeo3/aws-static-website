@@ -32,12 +32,3 @@ The project includes a responsive HTML/CSS design, GitHub version control, and c
 ---
 
 ## 🗂️ Project Structure
-aws-static-website/
-│
-├── index.html # Main webpage file
-├── styles.css # Styling file
-├── README.md # Project documentation
-├── LICENSE # Open-source license (optional)
-└── .gitignore # Files ignored by Git
-## 🗂️ Project Structure
-
